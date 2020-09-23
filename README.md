@@ -1,4 +1,6 @@
 ### Hi there 👋
+Sou a Bruna, aluna do curso de Ciência da Computação na Universidade Federal da Fronteira Sul.
+
 
 <!--
 **Brunadisner/Brunadisner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
