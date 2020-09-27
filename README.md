@@ -1,4 +1,3 @@
-
 # Hello, My name is Bruna! <img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/wave.gif" width="30px">
 Sou esudante do curso de Ciência da Computação na Universidade Federal da Fronteira Sul.
 Linguagens de programação que estou aprendendo: python, C, JAVA, HTML E CSS.
