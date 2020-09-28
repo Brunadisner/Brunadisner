@@ -10,16 +10,16 @@
 -->
 
 ## 💻 Minhas redes sociais
-- <a href = "https://instagram.com/bruna_disner">
-<img  src="https://github.com/Brunadisner/Brunadisner/blob/master/instagram.svg" width="50px" />
+<a href = "https://instagram.com/bruna_disner">
+- <img  src="https://github.com/Brunadisner/Brunadisner/blob/master/instagram.svg" width="30px" />
 </a>
 
-- <a href = "https://telegram.me/BrunaDisner">
-<img  src="https://github.com/Brunadisner/Brunadisner/blob/master/telegram.svg" width="50px" />
+<a href = "https://telegram.me/BrunaDisner">
+- <img  src="https://github.com/Brunadisner/Brunadisner/blob/master/telegram.svg" width="30px" />
 </a>
 
-- <a href = "https://github.com/Brunadisner">
-<img  src="https://github.com/Brunadisner/Brunadisner/blob/master/github.svg" width="50px" />
+<a href = "https://github.com/Brunadisner">
+- <img  src="https://github.com/Brunadisner/Brunadisner/blob/master/github.svg" width="30px" />
 </a>
 
 
