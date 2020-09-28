@@ -10,20 +10,22 @@
 -->
 
 ## 💻 Minhas redes sociais
-<a href = "https://instagram.com/bruna_disner">
+- <a href = "https://instagram.com/bruna_disner">
 <img  src="https://github.com/Brunadisner/Brunadisner/blob/master/instagram.svg" width="50px" />
 </a>
-<a href = "https://telegram.me/BrunaDisner">
+
+- <a href = "https://telegram.me/BrunaDisner">
 <img  src="https://github.com/Brunadisner/Brunadisner/blob/master/telegram.svg" width="50px" />
 </a>
-<a href = "https://github.com/Brunadisner">
+
+- <a href = "https://github.com/Brunadisner">
 <img  src="https://github.com/Brunadisner/Brunadisner/blob/master/github.svg" width="50px" />
 </a>
 
 
 
 
-# 👩‍ Um pouco sobre mim:
+# 👩🏻 Um pouco sobre mim:
 
 - 💻 Amo aprender mais sobre tecnologia
 - 🏫 Fui bolsista no projeto de extensão "O fantástico mundo da tecnologia", aonde ensinamos crianças a programar e idosos a descobrirem o mundo da tecnologia
@@ -32,7 +34,7 @@
 - 🎵 Já estudei música e toco alguns instrumentos
 
 
-## 👩‍💻Ferramentas que estou estudando
+## 👩🏻‍💻 Ferramentas que estou estudando
 <img src="https://github.com/Brunadisner/Brunadisner/blob/master/python.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/html.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/java.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/css.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/c.png" width="30px">
 
 
