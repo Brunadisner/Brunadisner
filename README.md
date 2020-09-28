@@ -3,7 +3,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/c6f13b01a53d7152d7f235838efe5a09.gif" width="250px">
+<img align="right" src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/c6f13b01a53d7152d7f235838efe5a09.gif" width="250px">
 
 <!--
 **Brunadisner/Brunadisner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,5 +22,4 @@
 
 
 ## Github status
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<Brunadisner>&theme=<merco>" />
-
+![Bruna github stats](https://github-readme-stats.vercel.app/api?username=Brunadisner&show_icons=true&theme=highcontrasto)
