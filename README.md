@@ -21,5 +21,12 @@
 <img src="https://github.com/Brunadisner/Brunadisner/blob/master/python.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/html.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/java.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/css.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/c.png" width="30px">
 
 
-## Github status
-![Bruna github stats](https://github-readme-stats.vercel.app/api?username=Brunadisner&show_icons=true&theme=highcontrasto)
+## GitHub Stats
+<a href = "https://github.com/Brunadisner/Brunadisner/">
+<img align ="left" src="https://github-readme-stats.vercel.app/api?username=Brunadisner&show_icons=true&theme=dracula" />
+</a>
+
+<a href = "https://github.com/Brunadisner/Brunadisner/">
+<img align ="right" src="https://github-readme-stats.vercel.app/api/dracula/top-langs/?username=Brunadisner"  />
+</a>
+   
