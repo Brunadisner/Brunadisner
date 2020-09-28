@@ -21,12 +21,12 @@
 <img src="https://github.com/Brunadisner/Brunadisner/blob/master/python.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/html.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/java.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/css.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/c.png" width="30px">
 
 
-## &#181717; GitHub Stats
+##  GitHub Stats <img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/github.gif" width="30px">
 <a href = "https://github.com/Brunadisner/Brunadisner/">
 <img align ="left" src="https://github-readme-stats.vercel.app/api?username=Brunadisner&show_icons=true&theme=dracula" />
 </a>
 
 <a href = "https://github.com/Brunadisner/Brunadisner/">
-<img align ="right" src="https://github-readme-stats.vercel.app/api/dracula/top-langs/?username=Brunadisner" src= "https://github.com/Brunadisner/github-readme-stats  />
+<img align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunadisner&theme=dracula" src= "https://github.com/Brunadisner/github-readme-stats"  />
 </a>
    
