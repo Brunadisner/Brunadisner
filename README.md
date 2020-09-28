@@ -18,8 +18,4 @@
 
 
 # 👩‍💻Linguagens que conheço
-<img src="https://github.com/Brunadisner/Brunadisner/blob/master/python.png" width="70px">
-<img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/html.png" width="30px">
-<img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/java.png" width="30px">
-<img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/css.png" width="30px">
-<img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/c.png" width="30px">
+<img src="https://github.com/Brunadisner/Brunadisner/blob/master/python.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/html.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/java.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/css.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/c.png" width="30px">
