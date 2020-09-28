@@ -25,12 +25,12 @@
 
 
 
-# 👩🏻 Um pouco sobre mim:
+## 👩🏻 Um pouco sobre mim:
 
 - 💻 Amo aprender mais sobre tecnologia
 - 🏫 Fui bolsista no projeto de extensão "O fantástico mundo da tecnologia", aonde ensinamos crianças a programar e idosos a descobrirem o mundo da tecnologia
 - 🔎 Atualmente estou estudando mais sobre desenvolvimento web
-- 🎓 Técnica em informática - IFSC Campus Chapecó
+- 🎓 Ensino médio Técnico em informática - IFSC Campus Chapecó
 - 🎵 Já estudei música e toco alguns instrumentos
 
 
