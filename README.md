@@ -3,7 +3,7 @@
 
 
 
-<img align="right" src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/c6f13b01a53d7152d7f235838efe5a09.gif" width="250px">
+<img align="right" src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/cachorro.gif" width="250px">
 
 <!--
 **Brunadisner/Brunadisner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,17 +11,15 @@
 
 ## 💻 Minhas redes sociais
 <a href = "https://instagram.com/bruna_disner">
-<img src="https://github.com/Brunadisner/Brunadisner/blob/master/instagram.svg" width="50px" />
+<img align="left" src="https://github.com/Brunadisner/Brunadisner/blob/master/instagram.svg" width="50px" />
 </a>
 <a href = "https://telegram.me/BrunaDisner">
-<img src="https://github.com/Brunadisner/Brunadisner/blob/master/telegram.svg" width="50px" />
+<img align="center" src="https://github.com/Brunadisner/Brunadisner/blob/master/telegram.svg" width="50px" />
 </a>
 <a href = "https://github.com/Brunadisner">
-<img src="https://github.com/Brunadisner/Brunadisner/blob/master/github.svg" width="50px" />
+<img align="right" src="https://github.com/Brunadisner/Brunadisner/blob/master/github.svg" width="50px" />
 </a>
-<a href = "bruna.disner@gmail.com">
-<img src="https://github.com/Brunadisner/Brunadisner/blob/master/gmail.svg" width="50px" />
-</a>
+
 
 
 
