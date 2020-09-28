@@ -11,10 +11,10 @@
 
 ## 💻 Minhas redes sociais
 <a href = "https://instagram.com/bruna_disner">
-<img align="left" src="https://github.com/Brunadisner/Brunadisner/blob/master/instagram.svg" width="50px" />
+<img  src="https://github.com/Brunadisner/Brunadisner/blob/master/instagram.svg" width="50px" />
 </a>
 <a href = "https://telegram.me/BrunaDisner">
-<img align="center" src="https://github.com/Brunadisner/Brunadisner/blob/master/telegram.svg" width="50px" />
+<img  src="https://github.com/Brunadisner/Brunadisner/blob/master/telegram.svg" width="50px" />
 </a>
 <a href = "https://github.com/Brunadisner">
 <img  src="https://github.com/Brunadisner/Brunadisner/blob/master/github.svg" width="50px" />
