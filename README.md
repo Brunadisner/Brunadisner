@@ -17,5 +17,10 @@
 - 🎵 Já estudei música e toco alguns instrumentos
 
 
-# 👩‍💻Linguagens que conheço
+## 👩‍💻Ferramentas que estou estudando
 <img src="https://github.com/Brunadisner/Brunadisner/blob/master/python.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/html.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/java.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/css.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/c.png" width="30px">
+
+
+## Github status
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<Brunadisner>&theme=<merco>" />
+
