@@ -27,7 +27,7 @@
 
 ## 👩🏻 Um pouco sobre mim:
 
-- 💻 Amo aprender mais sobre tecnologia
+- 💻 Atualmente estagiária do setor de informática no Corpo de Bombeiros de Chapecó
 - 🏫 Fui bolsista no projeto de extensão "O fantástico mundo da tecnologia", aonde ensinamos crianças a programar e idosos a descobrirem o mundo da tecnologia
 - 🔎 Atualmente estou estudando mais sobre desenvolvimento web
 - 🎓 Ensino médio Técnico em informática - IFSC Campus Chapecó
