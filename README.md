@@ -21,6 +21,9 @@
 <a href = "https://github.com/Brunadisner">
 - <img  src="https://github.com/Brunadisner/Brunadisner/blob/master/github.svg" width="30px" />
 </a>
+<a href = "https://www.linkedin.com/in/bruna-gabriela-disner-37164a21a/">
+- <img  src="https://github.com/Brunadisner/Brunadisner/blob/master/123718.png" width="30px" />
+</a>
 
 
 
