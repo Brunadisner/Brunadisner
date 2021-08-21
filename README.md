@@ -11,7 +11,7 @@
 
 ## 💻 Minhas redes sociais
 <a href = "https://instagram.com/bruna_disner">
-- <img  src="https://github.com/Brunadisner/Brunadisner/blob/master/instagram.svg" width="30px" />
+<img  src="https://github.com/Brunadisner/Brunadisner/blob/master/instagram.svg" width="30px" />
 </a>
 
 <a href = "https://telegram.me/BrunaDisner">
