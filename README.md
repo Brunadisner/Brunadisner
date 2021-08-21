@@ -15,7 +15,7 @@
 </a>
 
 <a href = "https://telegram.me/BrunaDisner">
-   <img  src="https://github.com/Brunadisner/Brunadisner/blob/master/telegram.svg" width="30px" right="5px" />
+   <img  src="https://github.com/Brunadisner/Brunadisner/blob/master/telegram.svg" width="30px" right="10px" />
 </a>
 
 <a href = "https://github.com/Brunadisner">
