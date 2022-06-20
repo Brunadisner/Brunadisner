@@ -1,9 +1,9 @@
-## Hi, I'm Bruna! <img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/wave.gif" width="50px">
+ ## Hi, I'm Bruna! <!--<img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/wave.gif" width="50px"> -->
 ### Sou estudante do curso de Ciência da Computação na Universidade Federal da Fronteira Sul.
 
 
 
-<img align="right" src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/cachorro.gif" width="250px">
+<!-- <img align="right" src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/cachorro.gif" width="250px"> -->
 
 <!--
 **Brunadisner/Brunadisner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
