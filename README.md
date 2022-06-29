@@ -39,7 +39,7 @@
 
 ## 👩🏻‍💻 Ferramentas que estou estudando
 <img src="https://github.com/Brunadisner/Brunadisner/blob/master/python.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/html.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/java.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/css.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/c.png" width="30px"><img
-src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/js.png" width="30px">
+src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/js.png" width="40px">
 
 
 ## <img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/github.gif" width="5%"> GitHub Stats 
