@@ -41,7 +41,7 @@
 <img src="https://github.com/Brunadisner/Brunadisner/blob/master/python.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/html.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/java.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/css.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/c.png" width="30px">
 
 
-## <img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/github.gif" width="5px"> GitHub Stats 
+## <img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/github.gif" width="5%"> GitHub Stats 
 <a href = "https://github.com/Brunadisner/Brunadisner/">
 <img align ="left" src="https://github-readme-stats.vercel.app/api?username=Brunadisner&show_icons=true&theme=dracula" />
 </a>
