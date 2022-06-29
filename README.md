@@ -30,7 +30,7 @@
 
 ## 👩🏻 Um pouco sobre mim:
 
-- 💻 Atualmente estagiária do setor de informática no Corpo de Bombeiros de Chapecó
+- 💻 Fui estagiária do setor de informática no Corpo de Bombeiros de Chapecó no ano de 2021
 - 🏫 Fui bolsista no projeto de extensão "O fantástico mundo da tecnologia", aonde ensinamos crianças a programar e idosos a descobrirem o mundo da tecnologia
 - 🔎 Atualmente estou estudando mais sobre desenvolvimento web
 - 🎓 Ensino médio Técnico em informática - IFSC Campus Chapecó
@@ -38,7 +38,8 @@
 
 
 ## 👩🏻‍💻 Ferramentas que estou estudando
-<img src="https://github.com/Brunadisner/Brunadisner/blob/master/python.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/html.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/java.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/css.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/c.png" width="30px">
+<img src="https://github.com/Brunadisner/Brunadisner/blob/master/python.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/html.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/java.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/css.png" width="30px"><img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/c.png" width="30px"><img
+src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/js.png" width="30px">
 
 
 ## <img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/github.gif" width="5%"> GitHub Stats 
