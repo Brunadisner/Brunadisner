@@ -1,6 +1,6 @@
  ## Hi, I'm Bruna! <!--<img src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/wave.gif" width="50px"> -->
-### Sou estudante do curso de Ciência da Computação na Universidade Federal da Fronteira Sul.
-
+<!-- ### Sou estudante do curso de Ciência da Computação na Universidade Federal da Fronteira Sul.
+ -->
 
 
 <!-- <img align="right" src="https://raw.githubusercontent.com/Brunadisner/Brunadisner/master/cachorro.gif" width="250px"> -->
@@ -28,13 +28,11 @@
 
 
 
-## 👩🏻 Um pouco sobre mim:
+<!-- ## 👩🏻 Um pouco sobre mim:
 
 - 💻 Fui estagiária do setor de informática no Corpo de Bombeiros de Chapecó no ano de 2021
 - 🏫 Fui bolsista no projeto de extensão "O fantástico mundo da tecnologia", aonde ensinamos crianças a programar e idosos a descobrirem o mundo da tecnologia
-- 🔎 Atualmente estou estudando mais sobre desenvolvimento web
-- 🎓 Ensino médio Técnico em informática - IFSC Campus Chapecó
-- 🎵 Já estudei música e toco alguns instrumentos
+- 🎓 Ensino médio Técnico em informática - IFSC Campus Chapecó -->
 
 
 ## 👩🏻‍💻 Ferramentas que estou estudando
